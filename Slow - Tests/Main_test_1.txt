@@ -1,0 +1,21 @@
+1004049235 function calls in 1984.254 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1 1729.583 1729.583 1984.253 1984.253 ksi_karlikova-meteostanice -hezke-prvotni-(neoptimalizovane)-reseni_2024318_161026.py:7(main)
+1000000000  228.533    0.000  228.533    0.000 {method 'split' of 'str' objects}
+  2024606   22.530    0.000   22.530    0.000 {built-in method _codecs.utf_8_decode}
+  2024606    3.602    0.000   26.132    0.000 <frozen codecs>:319(decode)
+        6    0.005    0.001    0.005    0.001 {built-in method builtins.print}
+        1    0.001    0.001 1984.254 1984.254 {built-in method builtins.exec}
+        1    0.000    0.000    0.000    0.000 {built-in method io.open}
+        1    0.000    0.000    0.000    0.000 {method '__exit__' of '_io._IOBase' objects}
+        6    0.000    0.000    0.000    0.000 {built-in method builtins.round}
+        1    0.000    0.000 1984.253 1984.253 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.sorted}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method _csv.reader}
+        1    0.000    0.000    0.000    0.000 <frozen codecs>:309(__init__)
+        1    0.000    0.000    0.000    0.000 <frozen codecs>:260(__init__)
+        1    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
